@@ -1,3 +1,8 @@
+https://docs.google.com/document/d/18hUdqzAmxfzeqVBqpm5c_IXYKK5teSoqtXTCyKJvXg8/edit?usp=sharing
+
+Step by step instructions
+
+
 # Firebaseui17v4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
