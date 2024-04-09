@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "relivetheshowsite": {
+      "hosting": {
+        "firebaseui17v4": [
+          "relivetheshowsite"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "relivetheshowsite"
+  }
+}

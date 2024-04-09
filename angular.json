@@ -94,6 +94,23 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "version": 2
+          },
+          "configurations": {
+            "production": {
+              "buildTarget": "firebaseui17v4:build:production",
+              "serveTarget": "firebaseui17v4:serve:production"
+            },
+            "development": {
+              "buildTarget": "firebaseui17v4:build:development",
+              "serveTarget": "firebaseui17v4:serve:development"
+            }
+          },
+          "defaultConfiguration": "production"
         }
       }
     }

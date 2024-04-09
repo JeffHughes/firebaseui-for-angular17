@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "firebaseui17v4",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
